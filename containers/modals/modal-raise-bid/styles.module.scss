@@ -1,0 +1,47 @@
+.footer {
+  .caption {
+    margin-top: 28px;
+    font-size: 0.75rem;
+    line-height: 15px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+  }
+}
+
+.footerSubtitle {
+  font-size: 1.5rem;
+  line-height: 24px;
+  font-weight: 400;
+  margin-right: 16px;
+  margin-top: 35px;
+  display: inline-block;
+}
+
+.footerSubtitleValue {
+  font-weight: 800;
+  font-size: 1.5rem;
+  line-height: 24px;
+}
+
+.selectWrapper {
+  display: flex;
+}
+
+.inputWithArrows {
+  margin-right: 12px;
+}
+
+.button {
+  min-width: 170px;
+  height: 44px;
+}
+
+.error {
+  font-size: 0.5625rem;
+  letter-spacing: 0.12em;
+  max-width: 260px;
+  margin-top: 6px;
+  line-height: 170%;
+  text-decoration: underline;
+}
